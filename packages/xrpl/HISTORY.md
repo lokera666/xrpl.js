@@ -7,6 +7,7 @@ Subscribe to [the **xrpl-announce** mailing list](https://groups.google.com/g/xr
 ### BREAKING CHANGES
 
 ### Added
+* Support for `Dynamic MPT` (XLS-94D)
 * Add `ReferenceHolding` to `MPTokenIssuance` ledger object and `vault_info` response.
 * Add XLS-56 Batch V1_1 support to `signMultiBatch` and `combineBatchSigners` ([XRPLF/rippled#6446](https://github.com/XRPLF/rippled/pull/6446)).
 
